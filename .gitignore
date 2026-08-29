@@ -1,0 +1,4 @@
+/_build/
+/deps/
+/priv/deskpin_nif.dll
+erl_crash.dump
