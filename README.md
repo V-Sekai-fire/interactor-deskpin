@@ -13,6 +13,8 @@ mix compile
 deskpin.cmd
 ```
 
+The build needs `gcc` or `cc` on the `PATH` for the native binding, and an Erlang/OTP built with wx.
+
 ## Licence
 
 MIT; see `LICENSE`.
